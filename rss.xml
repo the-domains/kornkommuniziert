@@ -4,8 +4,15 @@
         <description><![CDATA[Uli Korn twist Marketing Workshops Moderation Coaching Vorträge]]></description>
         <link>https://thegrid.ai/kornkommuniziert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 15:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 15:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kornkommuniziert/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/595d834d-86bb-4fe3-942f-74b5fe26490f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/kornkommuniziert/5457ea29-9852-47c3-a2b0-ec10575ce286/index.html</link>
+            <guid isPermaLink="false">5457ea29-9852-47c3-a2b0-ec10575ce286</guid>
+            <pubDate>Sun, 26 Jun 2016 15:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2374524-115a-4420-b7a3-9ce692a0a6a9.jpg" alt="" title="">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/kornkommuniziert/9a90a6ee-3edf-41ff-ac31-a1eb33d48e2e/index.html</link>
             <guid isPermaLink="false">9a90a6ee-3edf-41ff-ac31-a1eb33d48e2e</guid>
             <pubDate>Sun, 26 Jun 2016 15:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/595d834d-86bb-4fe3-942f-74b5fe26490f.jpg">]]></description>
-            <link>https://thegrid.ai/kornkommuniziert/5457ea29-9852-47c3-a2b0-ec10575ce286/index.html</link>
-            <guid isPermaLink="false">5457ea29-9852-47c3-a2b0-ec10575ce286</guid>
-            <pubDate>Sun, 26 Jun 2016 15:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
