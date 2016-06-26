@@ -1,7 +1,7 @@
 name: KornKommuniziert
 favicon: null
-layout_spectrum: 0.08301092754118145
-typography_spectrum: 0.8936841506510973
+layout_spectrum: 0.97596
+typography_spectrum: 0.07312
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.014777944190427661
+    - '#c6c6c6'
+    - '#706f6f'
+    - '#eb5c24'
+    - '#000000'
+    - '#ff0000'
+  brandStrength: 0.25
   lightness: 0.5581227508373559
   saturation: 0.9207812927197665
   rhythmicContrast: 0.7514443399850279
